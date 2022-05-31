@@ -1,0 +1,15 @@
+#myID {
+    color: red;    
+    font-size: 13px;
+}
+.myClass{
+    color: blue; 
+    font-size: 26px; 
+}
+.myphoto{
+    width: 500px; 
+    height: 500px;
+}
+body{
+    background-color: aqua;
+}
